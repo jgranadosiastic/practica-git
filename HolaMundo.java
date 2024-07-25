@@ -1,3 +1,6 @@
-esto es un texto en un archivo de java.
-Hola Mundo!!!!
-algo mas
+public class HolaMundo {
+    public static void main(String[] args) {
+        System.out.println("Hola mundo");
+    }
+    
+}
