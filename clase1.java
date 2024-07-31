@@ -1,5 +1,4 @@
 public class clase1 {
-
 	private String numero;
 	private int edad;
 	private String name;
@@ -8,7 +7,7 @@ public class clase1 {
 		return edad;
 	}
 	
-	public String getNumero(){
+	public String getNumero() {
 		return numero;
 	}
 
