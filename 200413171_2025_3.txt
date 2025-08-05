@@ -6,3 +6,6 @@ cuatro
 cinco
 sies
 siete
+ocho 
+nueve 
+diez 
