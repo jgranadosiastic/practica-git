@@ -1,7 +1,7 @@
 hola mundo
 uno
-dos
-tres
+como esta mundo
+hola mundo
 cuatro
 cinco
 sies
