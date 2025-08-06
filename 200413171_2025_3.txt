@@ -10,7 +10,11 @@ tres
 cuatro
 cinco
 sies
+<<<<<<< Updated upstream
 otra cosa
+=======
+Vayan a votar :)
+>>>>>>> Stashed changes
 siete
 ocho 
 nueve 
