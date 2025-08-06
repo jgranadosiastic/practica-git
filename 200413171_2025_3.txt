@@ -10,6 +10,7 @@ tres
 cuatro
 cinco
 sies
+otra cosa
 siete
 ocho 
 nueve 
