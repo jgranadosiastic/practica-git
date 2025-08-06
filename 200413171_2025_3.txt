@@ -12,9 +12,13 @@ cinco
 sies
 <<<<<<< Updated upstream
 otra cosa
+<<<<<<< HEAD
 =======
-Vayan a votar :)
+Vayan a votar
 >>>>>>> Stashed changes
+=======
+Modificacion
+>>>>>>> aaf76743b633a13e8a43e3ab16ff0f4e4414ba89
 siete
 ocho 
 nueve 
@@ -23,4 +27,7 @@ diez
 diez
 hola kik3-h
 
-hola kik3-h prueba 2 del merged nomas pq si
+hola kik3-h prueba 2
+
+
+muerte a la corrupcion!!!!
